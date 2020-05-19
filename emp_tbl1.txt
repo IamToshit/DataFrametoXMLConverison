@@ -1,0 +1,6 @@
+emp_id,emp_city,emp_name,emp_phone,emp_sal,emp_site
+3,Chennai,rahman,9848022330,45000,SanRamon
+1,Hyderabad,ram,9848022338,50000,SF
+2,Hyderabad,robin,9848022339,40000,LA
+4,sanjose,romin,9848022331,45123,SanRamon
+5,Pune,toshit,878784557,56565,PCMC
